@@ -7,11 +7,11 @@
     <style>
         /* === CSS CUSTOM PROPERTIES === */
         :root {
-            --primary-gradient: linear-gradient(135deg, #D2B48C 0%, #F4C2C2 100%);
-            --tab-active: #D2B48C;
-            --tab-inactive: #F4C2C2;
-            --step-green: #D2B48C;
-            --step-blue: #F4C2C2;
+            --primary-gradient: linear-gradient(135deg, #228B22 0%, #9CAF88 100%);
+            --tab-active: #228B22;
+            --tab-inactive: #9CAF88;
+            --step-green: #228B22;
+            --step-blue: #9CAF88;
             --border-radius: 15px;
             --transition-speed: 0.3s;
         }
@@ -32,14 +32,14 @@
         .container {
             max-width: 1200px;
             margin: 0 auto;
-            background: #F4C2C2;
+            background: #9CAF88;
             border-radius: var(--border-radius);
             box-shadow: 0 20px 60px rgba(0,0,0,0.1);
             overflow: hidden;
         }
 
         .header {
-            background: linear-gradient(135deg, #D2B48C, #F4C2C2);
+            background: linear-gradient(135deg, #228B22, #9CAF88);
             color: white;
             padding: 30px;
             text-align: center;
@@ -69,8 +69,8 @@
         /* === SIMPLE TAB SYSTEM === */
         .tab-nav {
             display: flex;
-            background: #D2B48C;
-            border-bottom: 3px solid #F4C2C2;
+            background: #228B22;
+            border-bottom: 3px solid #9CAF88;
         }
 
         .tab-button {
@@ -92,14 +92,14 @@
         }
 
         .tab-button:hover {
-            background: #C8A982;
+            background: #1F7A1F;
             transform: translateY(-2px);
         }
 
         .tab-button.active {
             background: var(--tab-active);
             transform: translateY(-3px);
-            box-shadow: 0 5px 15px rgba(210, 180, 140, 0.5);
+            box-shadow: 0 5px 15px rgba(34, 139, 34, 0.5);
         }
 
         .tab-content {
@@ -110,7 +110,7 @@
         .tab-panel {
             display: none;
             padding: 40px;
-            background: #F4C2C2;
+            background: #9CAF88;
             color: white;
             animation: fadeIn 0.3s ease-in;
         }
@@ -133,7 +133,7 @@
             margin: 15px 0;
             font-weight: bold;
             text-align: center;
-            box-shadow: 0 4px 15px rgba(210, 180, 140, 0.3);
+            box-shadow: 0 4px 15px rgba(34, 139, 34, 0.3);
         }
 
         .decision-diamond {
@@ -153,8 +153,8 @@
         }
 
         .content-file-preview {
-            background: #D2B48C;
-            border: 2px dashed #F4C2C2;
+            background: #228B22;
+            border: 2px dashed #9CAF88;
             border-radius: 10px;
             padding: 20px;
             margin: 20px 0;
@@ -167,7 +167,7 @@
 
         .content-file-preview:hover {
             border-color: white;
-            background: #C8A982;
+            background: #1F7A1F;
         }
 
         .content-file-preview h4 {
@@ -177,8 +177,8 @@
         }
 
         .edit-notice {
-            background: #D2B48C;
-            border: 1px solid #F4C2C2;
+            background: #228B22;
+            border: 1px solid #9CAF88;
             color: white;
             padding: 10px;
             border-radius: 5px;
