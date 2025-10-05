@@ -2,10 +2,19 @@
 # Document your systematic approach to finding research evidence
 
 ## Research Question
-[Restate your problem and solution in research terms]
+Among hospitality employees, how does ongoing career development training, compared to one-time onboarding, influence employee retention and career commitment in the hotel industry?
 
-**Primary Research Question:** [What does research tell us about this problem?]
+**Primary Research Question:** 
+
+What are the main causes and predictors of high turnover? (consensus)
+How high is turnover rate in the hospitality industry?
+
+
 **Secondary Research Question:** [What does research tell us about potential solutions?]
+
+Is ongoing career development training beneficial in reducing high turnover rates?
+By how much does ongoing career development training reduce high turnover rates?
+
 
 ## Search Strategy
 
@@ -22,8 +31,23 @@
 #### Primary Keywords
 [List main terms related to your problem/solution]
 
+hospitality
+career development
+one-time onboarding
+employee retention
+turnover
+career commitment
+hotel industry
+
+
 #### Secondary Keywords  
 [List related terms and synonyms]
+
+continuous training
+career growth
+fostering value
+job rotation
+
 
 #### Boolean Search Combinations
 [Document your search string combinations]
