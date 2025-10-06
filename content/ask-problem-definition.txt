@@ -3,39 +3,45 @@
 
 ## X → Y Framework
 ### Current State (X - What's happening now that's problematic?)
-[Describe the current situation that needs to be changed]
+The hospitality industry is experiencing persistently high employee turnover rates, with many workers leaving within the first year of employment. This leads to frequent staff shortages, increased recruitment and training costs, and decreased service consistency and guest satisfaction.
 
 ### Desired State (Y - What outcome do we want to achieve?)
-[Describe the ideal situation you want to reach]
+Achieve a stable, satisfied workforce with lower turnover rates through improved employee retention strategies, stronger organizational culture, and enhanced employee engagement and career development opportunities.
 
 ## PICOC Framework
 ### Population (P - Who is affected by this problem?)
-[Identify the specific group(s) experiencing the problem]
+Frontline hospitality employees such as hotel receptionists, housekeepers, food and beverage staff, and managers — as well as the organizations that employ them.
 
 ### Intervention (I - What solution/action are we considering?)
-[Describe the potential intervention or solution approach]
+Implementing comprehensive employee retention strategies such as increased career development opportunities, competitive compensation and benefits, supportive leadership practices, and improved work-life balance initiatives.
 
 ### Comparison (C - What alternatives exist?)
-[List alternative approaches or the "do nothing" option]
+Maintaining current HR practices without additional retention efforts, or focusing solely on financial incentives without addressing cultural or developmental needs.
 
 ### Outcomes (O - What will success look like?)
-[Define specific, measurable outcomes]
+Reduced annual employee turnover rate
+Improved employee satisfaction and engagement scores
+Higher guest satisfaction and service quality ratings
+Lower recruitment and training costs
 
 ### Context (C - Where/when does this apply?)
-[Specify the organizational, geographic, or temporal context]
+Applies to the hospitality industry, particularly hotels and resorts in the United States, with a focus on current post-pandemic labor market challenges and evolving employee expectations.
 
 ## Clear Problem Statement
-[Write a concise, specific statement of the management problem you're addressing]
+The hospitality industry faces high employee turnover rates that disrupt operations, reduce service quality, and increase organizational costs. To sustain competitiveness and maintain service excellence, it is essential to identify and implement effective employee retention strategies that address both organizational and employee needs.
 
 ## Why This Problem Matters
 ### Impact on Organization
-[Explain the consequences if this problem isn't addressed]
+High turnover leads to substantial financial losses through recruitment, onboarding, and training expenses, while also harming guest experience and long-term brand reputation.
 
 ### Stakeholder Impact
-[Describe how different groups are affected]
+Employees: Experience burnout, low job satisfaction, and limited growth opportunities.
+Management: Faces operational disruptions and challenges maintaining consistent service quality.
+Customers: Receive inconsistent service, negatively affecting satisfaction and loyalty.
+Owners/Investors: Encounter reduced profitability due to inefficiencies and higher costs.
 
 ### Strategic Alignment
-[Connect to organizational goals and priorities]
+Reducing turnover supports organizational goals of improving service quality, maintaining a strong employer brand, and enhancing long-term profitability—key priorities in the hospitality sector’s recovery and growth strategy.
 
 ## Evidence Questions to Explore
 ### For the Problem (Step 2)
