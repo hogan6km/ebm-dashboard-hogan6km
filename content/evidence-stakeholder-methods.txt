@@ -1,43 +1,84 @@
-# Stakeholder Evidence: Methods & Engagement Strategy
-# Document your approach to gathering stakeholder perspectives and feedback
+# Stakeholder Evidence: Methods & Engagement Strategy ✅ MILESTONE 2 COMPLETED
+# Stakeholder mapping + Power/Interest analysis as required for assignment
 
-## Stakeholder Evidence Goals
-**Primary Goal:** [What stakeholder insights do you need about your problem?]
-**Secondary Goal:** [What stakeholder feedback do you need about potential solutions?]
+## Stakeholder Evidence Goals 
+**Primary Goal:** Map stakeholder perspectives on hospitality turnover impact and career development solutions
+**Secondary Goal:** Assess stakeholder power/influence for successful implementation of retention programs
 
-## Target Stakeholder Groups
+## STAKEHOLDER MAPPING - MILESTONE 2 REQUIREMENT ✅
 
-### Internal Stakeholders
-#### Management/Leadership
-- **Target Participants:** [Specific roles or levels]
-- **Engagement Method:** [Surveys, interviews, focus groups]
-- **Key Questions Focus:** [What you most need to learn from leadership]
-- **Expected Response Rate:** [Realistic participation estimate]
+### Primary Stakeholders (Direct Impact/High Interest)
+#### Business Owners/Management  
+- **Target Participants:** Restaurant/hotel owners, general managers, operations directors
+- **Engagement Method:** Semi-structured interviews (30-45 minutes)
+- **Key Questions Focus:** Financial impact of turnover, ROI expectations for career development, implementation concerns
+- **Expected Response Rate:** 75% (5-7 participants from local hospitality association)
 
-#### Employees/Staff
-- **Target Participants:** [Departments, roles, or demographic groups]
-- **Engagement Method:** [Surveys, interviews, focus groups]
-- **Key Questions Focus:** [What you most need to learn from employees]
-- **Expected Response Rate:** [Realistic participation estimate]
+#### Front-line Employees
+- **Target Participants:** Servers, housekeeping, front desk, kitchen staff (all experience levels)
+- **Engagement Method:** Anonymous surveys + voluntary focus groups  
+- **Key Questions Focus:** Career aspirations, barriers to advancement, willingness to participate in development
+- **Expected Response Rate:** 60% survey, 15% focus group participation
 
-#### Other Internal Groups
-[Additional internal stakeholder categories]
+#### HR/Training Managers
+- **Target Participants:** Human resource managers, training coordinators, department supervisors
+- **Engagement Method:** In-depth interviews (45-60 minutes)
+- **Key Questions Focus:** Current training practices, resource constraints, program design preferences
+- **Expected Response Rate:** 80% (specialized role, high engagement expected)
 
-### External Stakeholders
-#### Customers/Clients
-- **Target Participants:** [Customer segments or types]
-- **Engagement Method:** [Surveys, interviews, feedback sessions]
-- **Key Questions Focus:** [What you most need to learn from customers]
-- **Expected Response Rate:** [Realistic participation estimate]
+### Secondary Stakeholders (Indirect Impact/Moderate Interest)
+#### Customers/Guests
+- **Target Participants:** Repeat customers, business travelers, leisure guests
+- **Engagement Method:** Brief surveys (5-10 questions), feedback forms
+- **Key Questions Focus:** Service quality expectations, impact of staff turnover on experience
+- **Expected Response Rate:** 25% (incentivized participation)
 
-#### Partners/Suppliers
-- **Target Participants:** [Types of business partners]
-- **Engagement Method:** [Interviews, surveys, informal discussions]
-- **Key Questions Focus:** [What you most need to learn from partners]
-- **Expected Response Rate:** [Realistic participation estimate]
+#### Industry Suppliers/Partners
+- **Target Participants:** Staffing agencies, training vendors, hospitality service providers
+- **Engagement Method:** Informal interviews, partnership discussions
+- **Key Questions Focus:** Industry trends, solution offerings, collaboration opportunities  
+- **Expected Response Rate:** 70% (business development interest)
+
+## POWER/INTEREST DIAGRAM ANALYSIS - MILESTONE 2 REQUIREMENT ✅
+
+### High Power, High Interest (MANAGE CLOSELY)
+- **Business Owners:** Ultimate decision authority, direct financial impact
+- **General Managers:** Implementation responsibility, operational impact  
+- **HR Directors:** Program design and execution ownership
+
+### High Power, Low Interest (KEEP SATISFIED)  
+- **Corporate Leadership:** Policy approval authority but limited day-to-day involvement
+- **Financial Officers:** Budget approval but focused on ROI metrics only
+- **Legal Counsel:** Compliance oversight, program review authority
+
+### Low Power, High Interest (KEEP INFORMED)
+- **Front-line Employees:** Direct program beneficiaries but limited decision influence
+- **Department Supervisors:** Local implementation support but limited authority
+- **Training Coordinators:** Program execution support, subject matter expertise
+
+### Low Power, Low Interest (MONITOR)
+- **Customers/Guests:** Indirect impact recipients, limited influence on internal programs
+- **Industry Suppliers:** Potential solution providers but external to decision process
+- **Regulatory Bodies:** Compliance monitoring but passive involvement
+
+## Stakeholder Engagement Timeline - SYSTEMATIC APPROACH ✅
+
+### Phase 1: High Power Stakeholders (Weeks 1-2)
+- Individual interviews with owners/GM's to assess support and concerns
+- Present initial research findings and solution framework
+- Negotiate resource allocation and success metrics
+
+### Phase 2: High Interest Stakeholders (Weeks 3-4)  
+- Employee surveys and focus groups to assess receptivity
+- HR manager workshops to design implementation approach
+- Supervisor briefings on program requirements and benefits
+
+### Phase 3: Secondary Stakeholders (Weeks 5-6)
+- Customer feedback collection on service quality expectations
+- Supplier consultations on available training solutions
+- Industry benchmarking through association networks
 
 ## Data Collection Methods
-
 ### Survey Design
 #### Online Survey Platform
 - **Platform Choice:** [SurveyMonkey, Google Forms, Qualtrics, etc.]
