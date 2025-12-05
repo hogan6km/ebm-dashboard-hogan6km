@@ -162,27 +162,119 @@
             background: white;
             border: 2px dashed #0B4D0B;
             border-radius: 10px;
-            padding: 20px;
+            padding: 25px;
             margin: 20px 0;
-            font-family: 'Courier New', monospace;
-            font-size: 14px;
-            line-height: 1.6;
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            font-size: 15px;
+            line-height: 1.7;
             color: #2C3E50;
             cursor: pointer;
             transition: all 0.3s ease;
             max-width: 100%;
-            overflow: auto;
+            overflow-x: auto;
+            overflow-y: visible;
+            word-wrap: break-word;
+            overflow-wrap: break-word;
+            hyphens: auto;
         }
         
         .content-file-preview pre {
             white-space: pre-wrap;
             word-wrap: break-word;
             overflow-wrap: break-word;
-            font-size: 14px;
-            line-height: 1.6;
+            word-break: break-word;
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            font-size: 15px;
+            line-height: 1.7;
             margin: 0;
             padding: 0;
             max-width: 100%;
+            overflow-x: auto;
+            background: transparent;
+            border: none;
+        }
+        
+        .content-file-preview h1,
+        .content-file-preview h2,
+        .content-file-preview h3,
+        .content-file-preview h4,
+        .content-file-preview h5 {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            color: #0B4D0B;
+            margin: 20px 0 10px 0;
+            line-height: 1.4;
+            word-wrap: break-word;
+            overflow-wrap: break-word;
+        }
+        
+        .content-file-preview table {
+            width: 100%;
+            border-collapse: collapse;
+            margin: 15px 0;
+            font-size: 14px;
+            overflow-x: auto;
+            display: block;
+            white-space: nowrap;
+        }
+        
+        .content-file-preview table thead,
+        .content-file-preview table tbody {
+            display: table;
+            width: 100%;
+            table-layout: fixed;
+        }
+        
+        .content-file-preview table th,
+        .content-file-preview table td {
+            border: 1px solid #ddd;
+            padding: 8px 12px;
+            text-align: left;
+            word-wrap: break-word;
+            overflow-wrap: break-word;
+            hyphens: auto;
+        }
+        
+        .content-file-preview table th {
+            background-color: #f8f9fa;
+            font-weight: bold;
+            color: #0B4D0B;
+        }
+        
+        .content-file-preview ul,
+        .content-file-preview ol {
+            margin: 15px 0;
+            padding-left: 25px;
+        }
+        
+        .content-file-preview li {
+            margin: 8px 0;
+            word-wrap: break-word;
+            overflow-wrap: break-word;
+        }
+        
+        .content-file-preview p {
+            margin: 15px 0;
+            word-wrap: break-word;
+            overflow-wrap: break-word;
+            hyphens: auto;
+        }
+        
+        .content-file-preview code {
+            background-color: #f1f3f4;
+            padding: 2px 4px;
+            border-radius: 3px;
+            font-family: 'Courier New', monospace;
+            font-size: 13px;
+            word-wrap: break-word;
+            overflow-wrap: break-word;
+        }
+        
+        .content-file-preview blockquote {
+            border-left: 4px solid #0B4D0B;
+            margin: 15px 0;
+            padding: 10px 15px;
+            background-color: #f8f9fa;
+            font-style: italic;
         }
 
         .content-file-preview:hover {
@@ -370,6 +462,161 @@
             content: "☐ ";
             color: #0B4D0B;
             font-weight: bold;
+        }
+
+        /* RESPONSIVE DESIGN - MOBILE & TABLET OPTIMIZATION */
+        @media (max-width: 1200px) {
+            .container {
+                max-width: 95%;
+                margin: 10px auto;
+            }
+            
+            .content-file-preview {
+                padding: 20px 15px;
+                font-size: 14px;
+            }
+            
+            .content-file-preview table {
+                font-size: 12px;
+                overflow-x: scroll;
+            }
+        }
+
+        @media (max-width: 768px) {
+            .header h1 {
+                font-size: 2em;
+            }
+            
+            .header .subtitle {
+                font-size: 1em;
+            }
+            
+            .tab-button {
+                font-size: 0.9em;
+                padding: 15px 8px;
+            }
+            
+            .content-file-preview {
+                padding: 15px 10px;
+                font-size: 13px;
+                line-height: 1.6;
+                margin: 15px 0;
+            }
+            
+            .content-file-preview pre {
+                font-size: 13px;
+                line-height: 1.6;
+            }
+            
+            .content-file-preview h1,
+            .content-file-preview h2,
+            .content-file-preview h3,
+            .content-file-preview h4 {
+                font-size: 1.1em;
+                margin: 15px 0 8px 0;
+            }
+            
+            .tab-panel {
+                padding: 20px 15px;
+            }
+            
+            .progress-step {
+                font-size: 0.8em;
+                padding: 10px 5px;
+                margin: 0 2px;
+            }
+        }
+
+        @media (max-width: 480px) {
+            .header h1 {
+                font-size: 1.8em;
+            }
+            
+            .tab-button {
+                font-size: 0.8em;
+                padding: 12px 5px;
+            }
+            
+            .content-file-preview {
+                padding: 12px 8px;
+                font-size: 12px;
+                line-height: 1.5;
+                margin: 10px 0;
+            }
+            
+            .content-file-preview pre {
+                font-size: 12px;
+                line-height: 1.5;
+            }
+            
+            .content-file-preview table {
+                font-size: 10px;
+            }
+            
+            .content-file-preview table th,
+            .content-file-preview table td {
+                padding: 4px 6px;
+            }
+            
+            .tab-panel {
+                padding: 15px 10px;
+            }
+            
+            .progress-step {
+                font-size: 0.7em;
+                padding: 8px 3px;
+                margin: 0 1px;
+            }
+        }
+
+        /* PRINT OPTIMIZATION */
+        @media print {
+            .container {
+                box-shadow: none;
+                max-width: 100%;
+            }
+            
+            .content-file-preview {
+                border: 1px solid #ccc;
+                page-break-inside: avoid;
+                font-size: 11px;
+                line-height: 1.4;
+            }
+            
+            .tab-button {
+                display: none;
+            }
+            
+            .tab-panel {
+                display: block !important;
+                page-break-before: always;
+            }
+        }
+
+        /* ACCESSIBILITY IMPROVEMENTS */
+        @media (prefers-reduced-motion: reduce) {
+            * {
+                animation-duration: 0.01ms !important;
+                animation-iteration-count: 1 !important;
+                transition-duration: 0.01ms !important;
+            }
+        }
+
+        /* HIGH CONTRAST MODE SUPPORT */
+        @media (prefers-contrast: high) {
+            .content-file-preview {
+                border: 3px solid #000;
+                background: #fff;
+                color: #000;
+            }
+            
+            .content-file-preview h1,
+            .content-file-preview h2,
+            .content-file-preview h3,
+            .content-file-preview h4 {
+                color: #000;
+                font-weight: bold;
+            }
         }
     </style>
 </head>

@@ -159,23 +159,103 @@
         
         content = escapeHtml(content);
         
+        // Enhanced markdown table processing
+        content = processMarkdownTables(content);
+        
         content = content
-            .replace(/###HEADER1###(.*?)###HEADER1###/g, '<h3 style="color: #2c3e50; margin-top: 20px; margin-bottom: 10px; font-weight: 600;">$1</h3>')
-            .replace(/###HEADER2###(.*?)###HEADER2###/g, '<h4 style="color: #34495e; margin-top: 15px; margin-bottom: 8px; font-weight: 600;">$1</h4>')
-            .replace(/###HEADER3###(.*?)###HEADER3###/g, '<h5 style="color: #7f8c8d; margin-top: 10px; margin-bottom: 5px; font-weight: 600;">$1</h5>')
-            .replace(/###HEADER4###(.*?)###HEADER4###/g, '<h6 style="color: #95a5a6; margin-top: 8px; margin-bottom: 3px; font-weight: 600; font-size: 0.9em;">$1</h6>')
+            .replace(/###HEADER1###(.*?)###HEADER1###/g, '<h3 style="color: #2c3e50; margin-top: 20px; margin-bottom: 10px; font-weight: 600; word-wrap: break-word; overflow-wrap: break-word;">$1</h3>')
+            .replace(/###HEADER2###(.*?)###HEADER2###/g, '<h4 style="color: #34495e; margin-top: 15px; margin-bottom: 8px; font-weight: 600; word-wrap: break-word; overflow-wrap: break-word;">$1</h4>')
+            .replace(/###HEADER3###(.*?)###HEADER3###/g, '<h5 style="color: #7f8c8d; margin-top: 10px; margin-bottom: 5px; font-weight: 600; word-wrap: break-word; overflow-wrap: break-word;">$1</h5>')
+            .replace(/###HEADER4###(.*?)###HEADER4###/g, '<h6 style="color: #95a5a6; margin-top: 8px; margin-bottom: 3px; font-weight: 600; font-size: 0.9em; word-wrap: break-word; overflow-wrap: break-word;">$1</h6>')
             .replace(/###BOLD###(.*?)###BOLD###/g, '<strong style="font-weight: 600;">$1</strong>')
             .replace(/###ITALIC###(.*?)###ITALIC###/g, '<em style="font-style: italic;">$1</em>')
-            .replace(/###LISTITEM###(.*?)###LISTITEM###/g, '<li style="margin: 5px 0; padding-left: 5px;">$1</li>')
-            .replace(/###NUMITEM###(.*?)###NUMITEM###/g, '<li style="margin: 5px 0; padding-left: 5px;">$1</li>')
+            .replace(/###LISTITEM###(.*?)###LISTITEM###/g, '<li style="margin: 5px 0; padding-left: 5px; word-wrap: break-word; overflow-wrap: break-word;">$1</li>')
+            .replace(/###NUMITEM###(.*?)###NUMITEM###/g, '<li style="margin: 5px 0; padding-left: 5px; word-wrap: break-word; overflow-wrap: break-word;">$1</li>')
             .replace(/\n\n/g, '<br><br>')
             .replace(/\n/g, '<br>');
         
         content = wrapConsecutiveLists(content);
         
-        return `<div style="font-family: inherit; line-height: 1.6; color: #333; word-wrap: break-word;">${content}</div>`;
+        return `<div style="font-family: inherit; line-height: 1.7; color: #333; word-wrap: break-word; overflow-wrap: break-word; hyphens: auto; max-width: 100%; overflow-x: auto;">${content}</div>`;
     }
     
+    function processMarkdownTables(content) {
+        // Basic markdown table processing
+        const tableRegex = /^(\|.*\|)$/gm;
+        const lines = content.split('\n');
+        let inTable = false;
+        let tableRows = [];
+        let processedLines = [];
+        
+        for (let i = 0; i < lines.length; i++) {
+            const line = lines[i].trim();
+            
+            if (line.match(/^\|.*\|$/)) {
+                // This is a table row
+                if (!inTable) {
+                    inTable = true;
+                    tableRows = [];
+                }
+                
+                // Skip separator lines (|---|---|)
+                if (!line.match(/^\|[\s\-:]+\|$/)) {
+                    tableRows.push(line);
+                }
+            } else {
+                // Not a table row
+                if (inTable && tableRows.length > 0) {
+                    // Process the accumulated table
+                    const tableHtml = createTableHtml(tableRows);
+                    processedLines.push(tableHtml);
+                    tableRows = [];
+                    inTable = false;
+                }
+                processedLines.push(line);
+            }
+        }
+        
+        // Handle table at end of content
+        if (inTable && tableRows.length > 0) {
+            const tableHtml = createTableHtml(tableRows);
+            processedLines.push(tableHtml);
+        }
+        
+        return processedLines.join('\n');
+    }
+
+    function createTableHtml(tableRows) {
+        if (tableRows.length === 0) return '';
+        
+        let html = '<div style="overflow-x: auto; margin: 15px 0;"><table style="border-collapse: collapse; width: 100%; min-width: 500px; font-size: 14px;">';
+        
+        // First row is header
+        if (tableRows.length > 0) {
+            const headerCells = tableRows[0].split('|').slice(1, -1).map(cell => cell.trim());
+            html += '<thead><tr>';
+            headerCells.forEach(cell => {
+                html += `<th style="border: 1px solid #ddd; padding: 8px 12px; background-color: #f8f9fa; font-weight: bold; color: #0B4D0B; text-align: left; word-wrap: break-word;">${cell}</th>`;
+            });
+            html += '</tr></thead>';
+        }
+        
+        // Body rows
+        if (tableRows.length > 1) {
+            html += '<tbody>';
+            for (let i = 1; i < tableRows.length; i++) {
+                const cells = tableRows[i].split('|').slice(1, -1).map(cell => cell.trim());
+                html += '<tr>';
+                cells.forEach(cell => {
+                    html += `<td style="border: 1px solid #ddd; padding: 8px 12px; text-align: left; word-wrap: break-word; overflow-wrap: break-word; hyphens: auto;">${cell}</td>`;
+                });
+                html += '</tr>';
+            }
+            html += '</tbody>';
+        }
+        
+        html += '</table></div>';
+        return html;
+    }
+
     function wrapConsecutiveLists(content) {
         content = content.replace(/(<li[^>]*>.*?<\/li>(?:\s*<br>)*)+/gs, function(match) {
             const cleanList = match.replace(/\s*<br>\s*(?=<li|$)/g, '');
