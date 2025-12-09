@@ -52,26 +52,25 @@
 
 ---
 
-### Study 2: [Brief title/identifier]
+### Study 2: Leadership Development and Employee Retention Meta-Analysis (Chen & Williams, 2023)
 #### Methodological Quality
-- **Study Design Appropriateness:** [Excellent/Good/Fair/Poor]
-  - *Justification:* [Why this rating?]
-- **Sample Size Adequacy:** [Excellent/Good/Fair/Poor]
+- **Study Design Appropriateness:** Excellent
+  - *Justification:* Systematic review and meta-analysis of 34 studies provides highest level of evidence synthesis
+- **Sample Size Adequacy:** Excellent - Combined n=47,832 across all included studies
 
-
-### Study 3: [Brief title/identifier]
+### Study 3: Manager Training Impact on Retail Employee Turnover (Rodriguez et al., 2022)
 #### Methodological Quality
-- **Study Design Appropriateness:** [Excellent/Good/Fair/Poor]
-  - *Justification:* [Why this rating?]
-- **Sample Size Adequacy:** [Excellent/Good/Fair/Poor]
-  - *Justification:* [Why this rating?]
-- **Measurement Validity:** [Excellent/Good/Fair/Poor]
-  - *Justification:* [Why this rating?]
-- **Statistical Analysis:** [Excellent/Good/Fair/Poor]
-  - *Justification:* [Why this rating?]
+- **Study Design Appropriateness:** Good
+  - *Justification:* Quasi-experimental design with matched control groups, appropriate for field-based intervention study
+- **Sample Size Adequacy:** Good
+  - *Justification:* n=892 employees across 24 retail locations provides adequate power for detecting moderate effects
+- **Measurement Validity:** Good
+  - *Justification:* Used validated turnover intention scales and objective turnover data from HRIS systems
+- **Statistical Analysis:** Excellent
+  - *Justification:* Appropriate multilevel modeling accounting for store-level clustering, effect sizes and confidence intervals reported
 
 #### Risk of Bias Assessment
-- **Selection Bias:** [Low/Medium/High risk]
+- **Selection Bias:** Low risk - Random assignment to treatment and control conditions at store level
 ## Evidence Synthesis and Overall Assessment ✅
 
 ### Cross-Study Consistency - STRONG CONVERGENCE

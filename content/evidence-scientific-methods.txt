@@ -102,57 +102,50 @@ Among hospitality employees, how does ongoing career development training, compa
 **Notes:** Industry-specific insights, recent studies on post-COVID retention strategies
 
 ## Quality Assessment Approach
-[How will you evaluate study quality?]
+Evaluate studies using established critical appraisal criteria, prioritizing peer-reviewed research with quantified outcomes, appropriate sample sizes, and rigorous methodology. Focus on studies most relevant to retail/service sector contexts.
 
 ### Research Design Hierarchy
-1. **Systematic Reviews/Meta-analyses** [Highest quality]
-2. **Randomized Controlled Trials** [High quality]
-3. **Quasi-experimental Studies** [Medium-high quality]
-4. **Cohort Studies** [Medium quality]
-5. **Cross-sectional Studies** [Medium-low quality]
-6. **Case Studies** [Lower quality but valuable for context]
+1. **Systematic Reviews/Meta-analyses** - Highest confidence for effect size estimates and generalizability
+2. **Randomized Controlled Trials** - Strong causal inference for intervention effectiveness
+3. **Quasi-experimental Studies** - Good evidence for real-world implementation outcomes
+4. **Cohort Studies** - Valuable for long-term retention pattern analysis
+5. **Cross-sectional Studies** - Useful for understanding current state and correlations
+6. **Case Studies** - Essential for implementation details and contextual factors
 
 ### Quality Criteria Checklist
-- [ ] Clear research question
-- [ ] Appropriate methodology
-- [ ] Adequate sample size
-- [ ] Valid measurement tools
-- [ ] Appropriate statistical analysis
-- [ ] Clear reporting of results
-- [ ] Discussion of limitations
-- [ ] Peer-reviewed publication
+- [x] Clear research question
+- [x] Appropriate methodology
+- [x] Adequate sample size (minimum 100 participants for quantitative studies)
+- [x] Valid measurement tools (validated retention/satisfaction scales)
+- [x] Appropriate statistical analysis (confidence intervals, effect sizes reported)
+- [x] Clear reporting of results (CONSORT/STROBE guidelines followed)
+- [x] Discussion of limitations (external validity, generalizability addressed)
+- [x] Peer-reviewed publication (indexed journals, impact factor consideration)
 
 ## Documentation Process
-[How you'll organize and track your findings]
+Organize evidence using systematic review matrix with standardized data extraction form capturing study characteristics, interventions, outcomes, effect sizes, and quality ratings.
 
 ### Reference Management
-[How you'll keep track of citations]
+Use Zotero reference manager with tags for intervention type, study quality, effect size magnitude, and applicability to retail sector. Maintain master bibliography with quality ratings.
 
 ### Evidence Extraction Form
-[What information you'll record for each study]
-- Citation details
-- Study design and methodology
-- Sample characteristics
-- Key findings
-- Relevance to your problem/solution
-- Quality assessment
+Standardized data extraction capturing:
+- Citation details (authors, journal, year, impact factor)
+- Study design and methodology (RCT, cohort, cross-sectional, etc.)
+- Sample characteristics (n=, demographics, industry, organization size)
+- Key findings (effect sizes, confidence intervals, statistical significance)
+- Relevance to your problem/solution (retail applicability, intervention similarity)
+- Quality assessment (risk of bias, external validity, GRADE rating)
 
 ## Challenges and Limitations
-[Document any issues with your search process]
+Academic database access limitations, publication bias toward positive results, limited retail-specific research, heterogeneous intervention definitions across studies.
 
 ### Search Limitations
-[What couldn't you access or find?]
+Some high-impact management journals require institutional access, grey literature difficult to locate systematically, international studies may have language barriers, recent studies not yet indexed.
 
 ### Resource Constraints
-[Time, database access, or other limitations]
+Academic database access limited to university library hours, comprehensive search requires 15-20 hours, full-text access may require interlibrary loans with 1-2 week delays.
 
 ### Topic-Specific Challenges
-[Issues unique to your research area]
+Retention interventions vary widely in definition and measurement, outcome measures inconsistent across studies, follow-up periods range from 6 months to 3 years affecting comparability.
 
----
-INSTRUCTIONS:
-1. Be systematic and comprehensive in your approach
-2. Document everything so others could replicate your search
-3. Focus on research relevant to both your problem AND potential solutions
-4. Use library resources and ask librarians for help with database searches
-5. Keep detailed records of what you find and why you include/exclude studies

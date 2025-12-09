@@ -1,11 +1,11 @@
-# Stakeholder Evidence: Methods & Engagement Strategy ✅ MILESTONE 2 COMPLETED
+# Stakeholder Evidence: Methods & Engagement Strategy 
 # Stakeholder mapping + Power/Interest analysis as required for assignment
 
 ## Stakeholder Evidence Goals 
 **Primary Goal:** Map stakeholder perspectives on hospitality turnover impact and career development solutions
 **Secondary Goal:** Assess stakeholder power/influence for successful implementation of retention programs
 
-## STAKEHOLDER MAPPING - MILESTONE 2 REQUIREMENT ✅
+## STAKEHOLDER MAPPING 
 
 ### Primary Stakeholders (Direct Impact/High Interest)
 #### Business Owners/Management  
@@ -39,7 +39,7 @@
 - **Key Questions Focus:** Industry trends, solution offerings, collaboration opportunities  
 - **Expected Response Rate:** 70% (business development interest)
 
-## POWER/INTEREST DIAGRAM ANALYSIS - MILESTONE 2 REQUIREMENT ✅
+## POWER/INTEREST DIAGRAM ANALYSIS 
 
 ### High Power, High Interest (MANAGE CLOSELY)
 - **Business Owners:** Ultimate decision authority, direct financial impact
@@ -61,7 +61,7 @@
 - **Industry Suppliers:** Potential solution providers but external to decision process
 - **Regulatory Bodies:** Compliance monitoring but passive involvement
 
-## Stakeholder Engagement Timeline - SYSTEMATIC APPROACH ✅
+## Stakeholder Engagement Timeline 
 
 ### Phase 1: High Power Stakeholders (Weeks 1-2)
 - Individual interviews with owners/GM's to assess support and concerns
@@ -81,21 +81,21 @@
 ## Data Collection Methods
 ### Survey Design
 #### Online Survey Platform
-- **Platform Choice:** [SurveyMonkey, Google Forms, Qualtrics, etc.]
-- **Survey Length:** [Estimated completion time]
-- **Question Types:** [Mix of multiple choice, rating scales, open-ended]
-- **Incentives:** [What you'll offer for participation]
+- **Platform Choice:** SurveyMonkey Professional for advanced analytics and anonymity features
+- **Survey Length:** 10-15 minutes completion time to maximize response rates
+- **Question Types:** Mix of 5-point Likert scales, multiple choice, ranking questions, and 2-3 open-ended responses
+- **Incentives:** Entry into gift card drawing ($50 value), summary report of findings, recognition in final project
 
 #### Key Survey Questions
 **Problem Assessment Questions:**
-- How frequently do you encounter [problem description]?
-- How significantly does this problem impact your work/experience?
-- What do you see as the main causes of this problem?
+- How frequently do you encounter employee turnover challenges in your role?
+- How significantly does high turnover impact your work effectiveness and customer service quality?
+- What do you see as the main causes of employee retention problems in retail?
 
 **Solution Feedback Questions:**
-- How would you rate the feasibility of [proposed solution]?
-- What concerns do you have about implementing this solution?
-- What would make this solution more effective?
+- How would you rate the feasibility of implementing enhanced manager training for retention?
+- What concerns do you have about managers spending more time on employee development?
+- What would make retention training programs more effective in your organization?
 
 **Priority and Support Questions:**
 - How important is solving this problem compared to other priorities?
@@ -104,10 +104,10 @@
 
 ### Interview Protocol
 #### Interview Structure
-- **Duration:** [Target length for each interview]
-- **Format:** [In-person, phone, video conference]
-- **Recording:** [Will interviews be recorded? How?]
-- **Note-taking:** [How will you capture responses]
+- **Duration:** 30-45 minutes to allow thorough exploration while respecting busy schedules
+- **Format:** Video conference preferred for convenience, in-person for key stakeholders when possible
+- **Recording:** Audio recording with consent for accuracy, backed up by detailed notes
+- **Note-taking:** Real-time structured notes using interview template, immediate post-interview summary
 
 #### Interview Questions
 **Opening Questions:**
@@ -120,32 +120,34 @@
 - What do you think causes this problem?
 
 **Solution Discussion:**
-- What solutions have you considered or tried?
-- How do you think [proposed solution] would work in practice?
-- What challenges or barriers do you foresee?
+- What solutions have you considered or tried for retention challenges?
+- How do you think enhanced manager training for retention would work in practice?
+- What challenges or barriers do you foresee in implementing retention programs?
 
 **Implementation Questions:**
-- What would success look like from your perspective?
-- What support would you need to make this solution work?
-- Who else should be involved in addressing this problem?
+- What would success look like from your perspective (reduced turnover, improved satisfaction)?
+- What support would you need to make retention training programs work effectively?
+- Who else should be involved in addressing employee retention challenges?
 
 ### Focus Groups (if applicable)
 #### Focus Group Design
-- **Group Size:** [Target number of participants per group]
-- **Number of Groups:** [How many focus groups planned]
-- **Group Composition:** [Homogeneous or mixed stakeholder groups]
-- **Facilitation:** [Who will facilitate and how]
+- **Group Size:** 6-8 participants per group for optimal discussion dynamics
+- **Number of Groups:** 3 focus groups (managers, front-line employees, customers)
+- **Group Composition:** Homogeneous groups by role to encourage open discussion
+- **Facilitation:** Trained facilitator using structured discussion guide with probing questions
 
 ## Sampling Strategy
 
 ### Stakeholder Identification
 #### Stakeholder Mapping
-[List specific individuals or groups you'll target]
+**Internal Stakeholders:** Store managers (5), department supervisors (10), front-line employees (25), HR staff (3)
+**External Stakeholders:** Regular customers (15), key suppliers (3), industry peers (5)
+**Leadership:** Senior management team (4), operations director, finance director
 
 #### Sampling Approach
-- **Total Target Sample:** [Number of stakeholders to engage]
-- **Sampling Method:** [Random, purposive, convenience, stratified]
-- **Representation Goals:** [What diversity of perspectives you want]
+- **Total Target Sample:** 75 stakeholders across all categories
+- **Sampling Method:** Purposive sampling for managers/leadership, stratified random sampling for employees by department
+- **Representation Goals:** Include perspectives from all departments, tenure levels, shifts, and customer segments
 
 ### Recruitment Strategy
 #### Outreach Method
