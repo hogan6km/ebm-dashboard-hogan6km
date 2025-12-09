@@ -271,10 +271,3 @@ Long-term sustainability of retention strategies beyond 24 months, effectiveness
 ### Implementation Reality Check
 [How do practitioners help you understand real-world constraints?]
 
----
-INSTRUCTIONS:
-1. Be honest about limitations - don't oversell weak practitioner evidence
-2. Consider both the credibility of sources and relevance to your context
-3. Look for patterns and consistency across multiple practitioners
-4. Acknowledge biases and gaps in your practitioner evidence
-5. Use this assessment to weight practitioner recommendations appropriately
