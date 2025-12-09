@@ -3,7 +3,14 @@
 
 ## 7 QUESTIONS FRAMEWORK ANALYSIS 
 
-### Question 1: Generalizability - Does Evidence Apply to Our Context?
+### Question 1: Generalizabil## Risk Analysis and Mitigation Strategies
+
+| **Risk Category** | **Specific Risk** | **Probability** | **Mitigation Strategies** |
+|-------------------|-------------------|-----------------|--------------------------|
+| **High Priority** | Management Commitment Issues | 25% | • Phased approach with clear milestones<br>• Regular ROI reporting<br>• Leadership involvement in planning |
+| **High Priority** | Employee Skepticism | 30% | • Voluntary participation initially<br>• Quick wins strategy<br>• Success story communication |
+| **Medium Priority** | Resource Constraints | 40% | • Flexible budgeting approach<br>• Scalable implementation<br>• Partner cost-sharing |
+| **Medium Priority** | Economic Downturn | 20% | • Strong ROI demonstration<br>• Cost-benefit emphasis<br>• Retention vs. hiring cost comparison |vidence Apply to Our Context?
 **PICOC Context Comparison:**
 - **Population:**  Hospitality front-line employees (exact match to scientific studies)
 - **Intervention:**  Career development programs (structured pathways + skill development)  
@@ -157,22 +164,16 @@
 
 ### 12-Month Implementation Timeline
 
-```
-PHASE 1: FOUNDATION        PHASE 2: PILOT          PHASE 3: EXPANSION      PHASE 4: OPTIMIZATION
-(Months 1-3)              (Months 4-6)           (Months 7-9)           (Months 10-12)
-┌─────────────────┐        ┌─────────────────┐     ┌─────────────────┐     ┌─────────────────┐
-│ ✓ Career pathway│        │ ✓ 25% pilot     │     │ ✓ All departments│     │ ✓ Full system   │
-│   development   │────→│   implementation │────→│   included       │────→│   optimization  │
-│ ✓ Manager       │        │ ✓ Mentorship    │     │ ✓ Advanced      │     │ ✓ Performance   │
-│   training      │        │   program start │     │   training      │     │   review        │
-│ ✓ System setup │        │ ✓ Initial       │     │ ✓ Retention     │     │ ✓ Year 2        │
-│ ✓ Partnerships  │        │   feedback      │     │   monitoring    │     │   planning      │
-└─────────────────┘        └─────────────────┘     └─────────────────┘     └─────────────────┘
-      Investment:                Investment:            Investment:            Investment:
-      $35,000                   $15,000               $10,000               $5,000
+## Implementation Timeline Overview
 
-Expected Outcomes:         Expected Outcomes:       Expected Outcomes:     Expected Outcomes:
-• System readiness        • 15% turnover ↓         • 20% turnover ↓      • 25% turnover ↓
+| **Phase** | **Timeline** | **Key Activities** | **Investment** | **Expected Outcomes** |
+|-----------|--------------|-------------------|----------------|----------------------|
+| **Phase 1: Foundation** | Months 1-3 | • Career pathway development<br>• Manager training launch<br>• System setup<br>• Partnership establishment | $35,000 | • System readiness<br>• Training infrastructure |
+| **Phase 2: Pilot** | Months 4-6 | • 25% pilot implementation<br>• Mentorship program start<br>• Initial feedback collection | $15,000 | • 15% turnover reduction<br>• Process validation |
+| **Phase 3: Expansion** | Months 7-9 | • All departments included<br>• Advanced training rollout<br>• Retention monitoring systems | $10,000 | • 20% turnover reduction<br>• Full engagement |
+| **Phase 4: Optimization** | Months 10-12 | • Full system optimization<br>• Performance review<br>• Year 2 planning | $5,000 | • 25% turnover reduction<br>• Sustainability planning |
+
+**Total Investment: $65,000** | **Target Outcome: 25% turnover reduction**
 • Manager capability      • Initial feedback       • Service quality ↑   • Target achieved
 • Employee awareness      • Program refinement     • Employee engage ↑   • ROI validated
 ```

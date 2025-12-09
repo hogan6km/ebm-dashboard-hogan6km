@@ -21,8 +21,21 @@
 
 ### VISUAL LOGIC MODEL DIAGRAM 
 
+## Logic Model Flow Chart
+
+**INPUTS → ACTIVITIES → OUTPUTS → OUTCOMES → IMPACT**
+
+| **INPUTS** | **ACTIVITIES** | **OUTPUTS** | **OUTCOMES** | **IMPACT** |
+|------------|----------------|-------------|--------------|------------|
+| **Resources:** | **Actions:** | **Direct Results:** | **Changes:** | **Long-term Benefits:** |
+| • Staff time (40hrs/mo) | • Career mapping | • 100% participation | • 25% turnover reduction | • Sustainable workforce |
+| • Budget ($65K) | • Skills assessment | • Development plans | • Satisfaction >4.0/5.0 | • $150K annual savings |
+| • Technology systems | • Training delivery | • Mentor partnerships | • Improved service quality | • Enhanced guest experience |
+| • External expertise | • Progress tracking | • Retention dashboard | • Higher engagement | • Competitive advantage |
+| • Management commitment | • Regular coaching | • Performance metrics | • Better retention | • Organizational stability |
+
 ```
-INPUTS                    ACTIVITIES                 OUTPUTS                    OUTCOMES                 IMPACT
+VISUAL DIAGRAM:
 ┌──────────────┐         ┌──────────────┐          ┌──────────────┐           ┌──────────────┐         ┌──────────────┐
 │ • Staff time │         │ • Career     │          │ • 100%       │           │ • 25%        │         │ • Sustainable│
 │   (40hrs/mo) │──────→│   mapping    │──────→│   participation│──────→│   turnover   │──────→│   workforce  │
@@ -34,18 +47,22 @@ INPUTS                    ACTIVITIES                 OUTPUTS                    
 │ • Management │         │   tracking   │          │   dashboard  │           │   quality    │         │   experience │
 │   commitment │         │              │          │              │           │              │         │              │
 └──────────────┘         └──────────────┘          └──────────────┘           └──────────────┘         └──────────────┘
-                                  ↑                                                      ↑
-                         MECHANISMS (How it works)                            SUCCESS METRICS
-                         ┌────────────────────────┐                          ┌────────────────────────┐
-                         │ • Psychological:       │                          │ • Monthly turnover     │
-                         │   Job satisfaction ↑   │                          │   tracking             │
-                         │ • Economic:           │                          │ • Quarterly            │
-                         │   Career prospects ↑   │                          │   satisfaction surveys │
-                         │ • Social:             │                          │ • Annual ROI           │
-                         │   Mentorship bonds ↑   │                          │   calculation          │
-                         │ • Organizational:     │                          │ • Service quality      │
-                         │   Talent pipeline ↑    │                          │   monitoring           │
-                         └────────────────────────┘                          └────────────────────────┘
+### Program Mechanisms and Success Metrics
+
+| **How It Works (Mechanisms)** | **How We Measure Success (Metrics)** |
+|-------------------------------|--------------------------------------|
+| **Psychological Factors:** | **Performance Tracking:** |
+| • Increased job satisfaction | • Monthly turnover rate monitoring |
+| • Enhanced career development perception | • Quarterly satisfaction surveys |
+| **Economic Factors:** | **Financial Measures:** |
+| • Improved career advancement prospects | • Annual ROI calculation |
+| • Clear promotion pathways | • Cost savings documentation |
+| **Social Factors:** | **Quality Indicators:** |
+| • Strengthened mentorship relationships | • Service quality monitoring |
+| • Enhanced team connectivity | • Customer satisfaction tracking |
+| **Organizational Factors:** | **Strategic Measures:** |
+| • Robust talent pipeline development | • Employee engagement scores |
+| • Improved succession planning | • Leadership development progress |
 ```
 
 ### EVALUATION DESIGN 
