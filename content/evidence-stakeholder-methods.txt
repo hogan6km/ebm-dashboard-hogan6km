@@ -2,7 +2,16 @@
 # Stakeholder mapping + Power/Interest analysis as required for assignment
 
 ## Stakeholder Evidence Goals 
-**Primary Goal:** Map stakeholder perspectives on hospitality turnover impact and career development solutions
+**### Informed Consent
+- **Purpose Explanation:** "This research aims to identify factors affecting employee retention and develop evidence-based solutions that improve job satisfaction and organizational effectiveness for all stakeholders."
+- **Participation Voluntariness:** "Your participation is entirely voluntary. You may skip any questions you're uncomfortable answering and can withdraw from the study at any time without any consequences."
+- **Data Use:** "Responses will be analyzed to identify patterns and develop retention improvement recommendations. Individual responses will be confidential and data will be reported in aggregate form only."
+- **Anonymity/Confidentiality:** "Individual responses will not be shared with management. All data will be stored securely and participants can choose to remain completely anonymous or provide contact information for follow-up only if desired."
+
+### Approvals & Permissions
+- **Supervisor Approval:** Yes - need written management approval for employee surveys/interviews including clear communication about confidentiality protections and voluntary participation
+- **HR Consultation:** Essential - coordinate with HR to ensure compliance with company policies, union agreements (if applicable), and appropriate communication channels
+- **External Stakeholder Protocols:** Customer contact requires management approval and standardized approach ensuring professional representation and minimal business disruptional:** Map stakeholder perspectives on hospitality turnover impact and career development solutions
 **Secondary Goal:** Assess stakeholder power/influence for successful implementation of retention programs
 
 ## STAKEHOLDER MAPPING 
@@ -152,13 +161,13 @@
 ### Recruitment Strategy
 #### Outreach Method
 **Email Invitation Template:**
-[Draft your stakeholder outreach message]
+"We're conducting research to improve employee retention and job satisfaction in our organization. Your perspective as [stakeholder role] is valuable to understanding the challenges we face and developing effective solutions. This survey/interview will take approximately [time] and your responses will help shape retention strategies that benefit everyone. Your participation is voluntary and responses can be kept confidential if preferred."
 
 **Follow-up Strategy:**
-[How and when you'll follow up with non-responders]
+Initial contact via company email/preferred communication channel, first follow-up after 5 business days with simplified participation request, second follow-up after 10 days offering alternative participation methods (shorter survey, brief phone call). Final reminder 3 days before survey close with emphasis on impact and appreciation.
 
 **Gatekeepers:**
-[Who might help you reach stakeholders or whose permission you need]
+Obtain management endorsement and HR department support for employee outreach, coordinate with department heads for customer contact protocols, work with union representatives where applicable, and ensure compliance with organizational communication policies.
 
 ## Ethical Considerations
 
@@ -176,54 +185,54 @@
 ## Timeline and Logistics
 
 ### Data Collection Schedule
-- **Survey Launch:** [When you'll distribute surveys]
-- **Survey Close:** [Deadline for survey responses]
-- **Interview Period:** [Window for conducting interviews]
-- **Focus Group Dates:** [When focus groups will occur]
-- **Follow-up Period:** [Time for additional questions or clarifications]
+- **Survey Launch:** Week 3 of project after management approvals and pilot testing completed
+- **Survey Close:** 3 weeks after launch to allow adequate response time and follow-up reminders
+- **Interview Period:** Weeks 4-6 allowing flexibility for participant scheduling and comprehensive data collection
+- **Focus Group Dates:** Week 5-6 after initial survey analysis to explore emerging themes and validate findings
+- **Follow-up Period:** Week 7 for clarification questions and participant validation of preliminary findings
 
 ### Logistical Planning
 #### Survey Distribution
-- **Distribution Method:** [Email, paper, internal systems]
-- **Reminder Schedule:** [When you'll send follow-up reminders]
-- **Technical Support:** [How you'll help participants with technical issues]
+- **Distribution Method:** Company email system with link to secure online survey platform (SurveyMonkey/Qualtrics) plus paper copies for employees without regular email access
+- **Reminder Schedule:** Initial invitation, reminder at 1 week, second reminder at 2 weeks, final reminder 3 days before close with response rate updates
+- **Technical Support:** IT help desk contact information provided, alternative phone/paper completion options, dedicated email for survey questions and technical issues
 
 #### Interview Scheduling
-- **Scheduling Method:** [How you'll coordinate interview times]
-- **Location Planning:** [Where interviews will take place]
-- **Equipment Needs:** [Recording equipment, note-taking materials]
+- **Scheduling Method:** Online scheduling system (Calendly) with multiple time slots, phone scheduling for those preferring direct contact, flexible scheduling including breaks and after-hours options
+- **Location Planning:** Private conference rooms for in-person interviews, secure video call platform for remote interviews, neutral locations for customer interviews
+- **Equipment Needs:** Digital recording device with backup, structured interview guides, consent forms, note-taking materials, and secure data storage protocols
 
 ## Response Rate Strategy
 
 ### Maximizing Participation
 #### Engagement Tactics
-- **Leadership Endorsement:** [Getting visible support from management]
-- **Clear Value Proposition:** [Explaining how participation benefits stakeholders]
-- **Convenient Participation:** [Making it easy to participate]
-- **Multiple Touchpoints:** [Various opportunities to engage]
+- **Leadership Endorsement:** Obtain written management support statement emphasizing importance of employee input and commitment to act on findings
+- **Clear Value Proposition:** "Your input will directly influence retention strategies that can improve your work environment, career development opportunities, and job satisfaction"
+- **Convenient Participation:** Multiple survey access methods, flexible interview scheduling, brief participation options (5-minute mini-surveys), mobile-friendly formats
+- **Multiple Touchpoints:** Department meetings to introduce research, follow-up emails, break room flyers, manager endorsements, peer-to-peer encouragement
 
 #### Incentive Strategy
-- **Direct Incentives:** [What you might offer participants]
-- **Indirect Benefits:** [How participation serves stakeholder interests]
-- **Recognition:** [How you might acknowledge participant contributions]
+- **Direct Incentives:** Entry into gift card drawings, paid time for interview participation, refreshments during focus groups, early access to findings summary
+- **Indirect Benefits:** Improved work environment, better management practices, enhanced development opportunities, stronger voice in organizational decisions
+- **Recognition:** Thank you messages from leadership, acknowledgment in company newsletter, participant certificates, feedback on how input was used
 
 ### Minimum Viable Sample
-- **Minimum Response Rate:** [What response rate you need for credible results]
-- **Backup Plan:** [What you'll do if response rates are low]
-- **Alternative Methods:** [Other ways to gather stakeholder input if needed]
+- **Minimum Response Rate:** 40% employee response rate (60+ responses from 150 employees), representation from all departments and shift patterns for credible results
+- **Backup Plan:** If response rates below 30%, extend survey period, offer paper alternatives, conduct brief interviews during shift changes, use department meetings for group feedback
+- **Alternative Methods:** Focus groups during staff meetings, suggestion box feedback, informal conversations during management rounds, exit interview data analysis
 
 ## Data Management Plan
 
 ### Data Collection Organization
-- **Response Tracking:** [How you'll track who has responded]
-- **Data Storage:** [Where and how you'll store stakeholder responses]
-- **Data Security:** [How you'll protect stakeholder information]
-- **Backup Plan:** [How you'll prevent data loss]
+- **Response Tracking:** Secure spreadsheet with anonymous participant IDs, response dates, completion status, demographic categories (department, tenure) without identifying information
+- **Data Storage:** Password-protected cloud storage (Google Drive/OneDrive) with restricted access, survey platform secure servers with automatic backup, physical documents in locked cabinet
+- **Data Security:** All data anonymized immediately upon collection, no names linked to responses, aggregate reporting only, secure deletion of identifying information after analysis
+- **Backup Plan:** Daily backups to separate cloud storage location, exported data files stored in multiple secure locations, paper backup of critical survey responses
 
 ### Analysis Preparation
-- **Coding Strategy:** [How you'll analyze open-ended responses]
-- **Quantitative Analysis:** [How you'll analyze survey data]
-- **Integration Plan:** [How you'll combine different types of stakeholder evidence]
+- **Coding Strategy:** Thematic analysis of open-ended responses using inductive coding approach, multiple reviewers for reliability, focus on retention factors, satisfaction drivers, and improvement suggestions
+- **Quantitative Analysis:** Descriptive statistics for all survey items, cross-tabulation by department and tenure, correlation analysis between satisfaction and retention intention, trend analysis over time
+- **Integration Plan:** Triangulate survey data with interview insights and focus group themes, create stakeholder perspective matrix comparing different group viewpoints, develop comprehensive stakeholder evidence summary
 
 ---
 INSTRUCTIONS:
