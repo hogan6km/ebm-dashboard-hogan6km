@@ -1,4 +1,4 @@
-# Practitioner Evidence: Methods & Acquisition Strategy - MILESTONE 2 COMPLETED  
+# Practitioner Evidence: Methods & Acquisition Strategy  
 # Mu#### Published Cas### Documentation & Analysis
 
 #### Intervi### Informed Consent
@@ -32,7 +32,7 @@
 **Primary Goal:** Gather real-world insights on hospitality turnover challenges from experienced managers
 **Secondary Goal:** Collect implementation experiences with career development programs and retention strategies
 
-## Target Practitioners - MULTIPLE PERSPECTIVES REQUIRED
+## Target Practitioners
 
 ### Industry Experts Profile
 **Target Profile:** Hospitality managers with direct experience managing turnover and retention initiatives
@@ -112,33 +112,33 @@
 ### Case Study Research
 
 #### Published Case Studies
-- **Target Sources:** [Harvard Business Review, industry publications, consulting reports]
-- **Search Strategy:** [How you'll find relevant case studies]
-- **Documentation Plan:** [How you'll organize case study insights]
+- **Target Sources:** Harvard Business Review, MIT Sloan Management Review, McKinsey Quarterly, Deloitte retail reports, PwC workforce studies
+- **Search Strategy:** Database searches using keywords "retail retention," "employee engagement retail," "turnover reduction," "retail management practices"
+- **Documentation Plan:** Standardized case summary template capturing problem context, solution approach, implementation details, and measurable outcomes
 
 #### Company Examples
-- **Target Companies:** [Organizations known for addressing similar problems]
-- **Information Sources:** [Annual reports, news articles, presentations]
-- **Contact Strategy:** [How you might reach company representatives]
+- **Target Companies:** Wegmans, Trader Joe's, Costco, REI, Patagonia (known for low retail turnover and high employee satisfaction)
+- **Information Sources:** Annual sustainability reports, employee satisfaction rankings (Fortune Best Companies), HR conference presentations, industry award citations
+- **Contact Strategy:** Connect with HR leaders through LinkedIn, request informational interviews citing academic research and mutual benefit
 
 ## Documentation Strategy
 
 ### Interview Documentation
-- **Recording:** [Will you record interviews? If so, how?]
-- **Note-taking:** [Real-time notes plus post-interview summary]
-- **Transcription:** [Full or partial transcription plan]
-- **Analysis:** [How you'll analyze and code responses]
+- **Recording:** Audio recording with participant consent using secure digital recorder with backup device, stored on encrypted drive
+- **Note-taking:** Real-time structured notes using interview template plus comprehensive post-interview summary within 24 hours
+- **Transcription:** Full transcription for key insights and quotes, partial transcription for general themes and background information
+- **Analysis:** Thematic coding using inductive approach, cross-validation with multiple practitioners, focus on implementation insights and success factors
 
 ### Case Study Documentation
-- **Template:** [Standardized format for case study summaries]
-- **Key Elements:** [What information you'll capture for each case]
-- **Source Tracking:** [How you'll maintain citation information]
+- **Template:** Standardized format including organization profile, problem context, solution approach, implementation process, results, and lessons learned
+- **Key Elements:** Quantitative outcomes (retention rates, ROI), qualitative improvements (culture changes), implementation timeline, resource requirements, success factors
+- **Source Tracking:** Complete citation information, publication dates, author credentials, methodology notes, and access permissions for academic use
 
 ## Outreach Strategy
 
 ### Contact Approach
 **Initial Contact Message Template:**
-"Hello [Name], I'm conducting academic research on retail employee retention strategies and noticed your expertise in [specific area]. I'm exploring evidence-based approaches to reduce turnover and improve customer satisfaction in retail settings. Would you be willing to share your insights in a brief 30-45 minute conversation? I'd be happy to provide a summary of key findings from the research. Thank you for considering this opportunity to contribute to retail management knowledge."
+"Hello Sarah, I'm conducting academic research on retail employee retention strategies and noticed your expertise in regional retail operations. I'm exploring evidence-based approaches to reduce turnover and improve customer satisfaction in retail settings. Would you be willing to share your insights in a brief 30-45 minute conversation? I'd be happy to provide a summary of key findings from the research. Thank you for considering this opportunity to contribute to retail management knowledge."
 
 **Follow-up Strategy:**
 Initial contact via LinkedIn message or email, follow-up after 1 week if no response, final follow-up after 2 weeks with shortened request for 15-minute phone conversation. If still no response, move to next potential contact while maintaining professional relationship.
@@ -154,15 +154,15 @@ Comprehensive summary report of retention best practices compiled from all inter
 ## Ethical Considerations
 
 ### Informed Consent
-- **Purpose Explanation:** [How you'll explain your research purpose]
-- **Use of Information:** [How you'll use their insights]
-- **Anonymity/Attribution:** [Will you identify them or keep anonymous?]
-- **Approval Process:** [Will they review how you use their input?]
+- **Purpose Explanation:** Clear explanation of academic research purpose, evidence-based management approach, and contribution to retail industry knowledge base
+- **Use of Information:** Insights will be synthesized into research findings, potentially shared in academic contexts, and used to develop evidence-based retention recommendations
+- **Anonymity/Attribution:** Default to anonymous attribution ("retail manager with 10+ years experience") with option for named attribution if participant prefers professional recognition
+- **Approval Process:** Participants can review quotes and references before publication, with right to modify or withdraw consent for specific information
 
 ### Professional Courtesy
-- **Time Respect:** [Staying within agreed time limits]
-- **Preparation:** [Being well-prepared for interactions]
-- **Follow-through:** [Sharing results if promised]
+- **Time Respect:** Strict adherence to agreed interview duration, sending agenda in advance, starting and ending punctually
+- **Preparation:** Thorough background research on participant's organization and role, structured interview guide, technical setup tested in advance
+- **Follow-through:** Delivery of promised research summary within 4 weeks, acknowledgment in final research outputs, and ongoing professional relationship maintenance
 
 ## Expected Challenges
 
@@ -189,10 +189,3 @@ Adapt methods by shortening interview format to 15-20 minutes, offering written 
 ### Minimum Viable Evidence
 Minimum viable practitioner evidence includes 3-4 detailed interviews with experienced retail managers, 2-3 comprehensive case studies from recognized companies, and validation through industry association resources or consulting firm publications demonstrating real-world retention strategy implementation.
 
----
-INSTRUCTIONS:
-1. Start outreach early - practitioners are busy and may take time to respond
-2. Be professional and clear about your academic purpose
-3. Prepare thoroughly for interviews to make the most of practitioners' time
-4. Have backup sources in case your primary targets aren't available
-5. Consider offering something valuable in return for their time

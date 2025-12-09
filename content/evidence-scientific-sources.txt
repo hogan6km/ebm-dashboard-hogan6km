@@ -1,4 +1,4 @@
-# Scientific Evidence: Research Findings - MILESTONE 2 COMPLETED
+# Scientific Evidence: Research Findings 
 # Documented peer-reviewed studies with 2+ effect sizes as required
 
 ## Evidence Summary Overview
@@ -30,7 +30,7 @@ Kim, S., & Park, Y. (2024). The effectiveness of structured career development p
 - Employees with clear career pathways were 2.3x more likely to stay beyond 2 years
 
 #### Important Statistics/Results
-- 95% CI [0.61, 0.85] for retention improvement
+- 95% CI (0.61, 0.85) for retention improvement
 - Cost-benefit ratio: $1 invested in career development saved $3.40 in turnover costs
 - Program satisfaction rated 4.2/5.0 by participants
 

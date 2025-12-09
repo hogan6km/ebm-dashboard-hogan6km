@@ -334,7 +334,7 @@ INPUTS                    ACTIVITIES                 OUTPUTS                    
 
 ## Evaluation Timeline
 
-### Pre-Implementation Data Collection [Baseline Period]
+### Pre-Implementation Data Collection (Baseline Period: Weeks 1-4)
 **Timeline:** 4 weeks prior to implementation launch
 
 **Activities:**

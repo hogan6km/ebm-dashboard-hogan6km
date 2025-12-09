@@ -161,7 +161,7 @@
 ### Recruitment Strategy
 #### Outreach Method
 **Email Invitation Template:**
-"We're conducting research to improve employee retention and job satisfaction in our organization. Your perspective as [stakeholder role] is valuable to understanding the challenges we face and developing effective solutions. This survey/interview will take approximately [time] and your responses will help shape retention strategies that benefit everyone. Your participation is voluntary and responses can be kept confidential if preferred."
+"We're conducting research to improve employee retention and job satisfaction in our organization. Your perspective as a sales associate is valuable to understanding the challenges we face and developing effective solutions. This survey/interview will take approximately 20-30 minutes and your responses will help shape retention strategies that benefit everyone. Your participation is voluntary and responses can be kept confidential if preferred."
 
 **Follow-up Strategy:**
 Initial contact via company email/preferred communication channel, first follow-up after 5 business days with simplified participation request, second follow-up after 10 days offering alternative participation methods (shorter survey, brief phone call). Final reminder 3 days before survey close with emphasis on impact and appreciation.
@@ -172,15 +172,15 @@ Obtain management endorsement and HR department support for employee outreach, c
 ## Ethical Considerations
 
 ### Informed Consent
-- **Purpose Explanation:** [How you'll explain the research purpose]
-- **Participation Voluntariness:** [Making clear that participation is optional]
-- **Data Use:** [How you'll explain how their input will be used]
-- **Anonymity/Confidentiality:** [What privacy protections you'll provide]
+- **Purpose Explanation:** "This research aims to identify factors affecting employee retention and develop evidence-based solutions that improve job satisfaction and organizational effectiveness for all stakeholders."
+- **Participation Voluntariness:** "Your participation is entirely voluntary. You may skip any questions you're uncomfortable answering and can withdraw from the study at any time without any consequences."
+- **Data Use:** "Responses will be analyzed to identify patterns and develop retention improvement recommendations. Individual responses will be confidential and data will be reported in aggregate form only."
+- **Anonymity/Confidentiality:** "Individual responses will not be shared with management. All data will be stored securely and participants can choose to remain completely anonymous or provide contact information for follow-up only if desired."
 
 ### Organizational Permissions
-- **Supervisor Approval:** [Do you need management approval for stakeholder engagement?]
-- **HR Consultation:** [Should you coordinate with HR for employee surveys/interviews?]
-- **External Stakeholder Protocols:** [Any special considerations for external stakeholders?]
+- **Supervisor Approval:** Yes - need written management approval for employee surveys/interviews including clear communication about confidentiality protections and voluntary participation
+- **HR Consultation:** Essential - coordinate with HR to ensure compliance with company policies, union agreements (if applicable), and appropriate communication channels
+- **External Stakeholder Protocols:** Customer contact requires management approval and standardized approach ensuring professional representation and minimal business disruption
 
 ## Timeline and Logistics
 
@@ -234,10 +234,3 @@ Obtain management endorsement and HR department support for employee outreach, c
 - **Quantitative Analysis:** Descriptive statistics for all survey items, cross-tabulation by department and tenure, correlation analysis between satisfaction and retention intention, trend analysis over time
 - **Integration Plan:** Triangulate survey data with interview insights and focus group themes, create stakeholder perspective matrix comparing different group viewpoints, develop comprehensive stakeholder evidence summary
 
----
-INSTRUCTIONS:
-1. Start stakeholder engagement early - it often takes longer than expected
-2. Be respectful of stakeholder time and provide clear value for participation  
-3. Get appropriate permissions before engaging organizational stakeholders
-4. Plan for lower response rates than you hope for
-5. Have multiple methods to reach different types of stakeholders
