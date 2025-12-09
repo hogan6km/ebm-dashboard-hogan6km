@@ -1,5 +1,4 @@
 # Scientific Evidence: Methods & Acquisition Strategy
-# Document your systematic approach to finding research evidence
 
 ## Research Question
 Among hospitality employees, how does ongoing career development training, compared to one-time onboarding, influence employee retention and career commitment in the hotel industry?
@@ -72,7 +71,7 @@ Among hospitality employees, how does ongoing career development training, compa
 - Non-English publications
 - Conference abstracts without full papers
 
-## Search Results Summary - MILESTONE 2 COMPLETED
+## Search Results Summary 
 
 ### Final Search Results
 - **Total Articles Found:** 2,847 across all databases

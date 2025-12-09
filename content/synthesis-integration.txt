@@ -1,5 +1,4 @@
-# Evidence Integration & Synthesis 
-# AGGREGATE Phase: Bayesian Evidence Synthesis for Evidence-Based Decision Making
+# Evidence Integration & Synthesis
 
 ## BAYESIAN EVIDENCE SYNTHESIS 
 **Hypothesis:** Career development programs will reduce hospitality employee turnover by 25% or more
