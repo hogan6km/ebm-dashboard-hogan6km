@@ -57,7 +57,7 @@ Among hospitality employees, how does ongoing career development training, compa
 
 ## Selection Criteria Applied
 
-### Inclusion Criteria ✅ REQUIRED: 2+ Effect Sizes Found
+### Inclusion Criteria - REQUIRED: 2+ Effect Sizes Found
 - **Study Design:** Quantitative studies with measurable effect sizes (correlations, Cohen's d, odds ratios)
 - **Population:** Hospitality industry employees (hotels, restaurants, tourism)
 - **Interventions:** Career development, training programs, HR retention strategies  
